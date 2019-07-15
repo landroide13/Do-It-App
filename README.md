@@ -1,5 +1,5 @@
 
 ## Do-It App
 
-React App powerded by Context and Hooks.
+React App powered by Context and Hooks.
 
